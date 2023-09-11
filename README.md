@@ -1,5 +1,5 @@
 # 💫 About Me:
-A mobile app developer with +4 years of experience, passionate about e-learning and building apps that facilitate people's lives, with a Bachelor's degree in computer science.<br>I have extensive experience in mobile app development with Dart, Flutter, Java, and Kotlin. I am also proficient in<br>backend development with Firebase, FastAPI, and Node.js.
+A mobile app developer with +4 years of experience, passionate about e-learning and building apps that facilitate people's lives, with a Bachelor's degree in computer science.<br>I have extensive experience in mobile app development with Dart, Flutter, Java, and Kotlin. I am also proficient in backend development with Firebase, FastAPI, and Node.js.
 
 
 ## 🌐 Socials:
